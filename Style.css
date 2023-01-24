@@ -1,0 +1,22 @@
+
+.body {
+    text-align:center;
+}
+
+.text1 {
+    color: #2a2b30e0;
+    text-align: center;
+    text-shadow: 100px;  
+}
+
+.text2{
+    color: orange;
+}
+
+.text3{
+    color: rgb(16, 62, 189);
+}
+
+.text4{
+    color: rgb(0, 0, 0);
+}
